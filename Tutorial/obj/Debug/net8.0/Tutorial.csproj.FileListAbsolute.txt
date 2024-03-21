@@ -1,0 +1,14 @@
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/bin/Debug/net8.0/Tutorial
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/bin/Debug/net8.0/Tutorial.deps.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/bin/Debug/net8.0/Tutorial.runtimeconfig.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/bin/Debug/net8.0/Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/bin/Debug/net8.0/Tutorial.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/Tutorial.AssemblyInfoInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/Tutorial.AssemblyInfo.cs
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/Tutorial.csproj.CoreCompileInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/refint/Tutorial.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/Tutorial.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/Tutorial.genruntimeconfig.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/Debug/net8.0/ref/Tutorial.dll
