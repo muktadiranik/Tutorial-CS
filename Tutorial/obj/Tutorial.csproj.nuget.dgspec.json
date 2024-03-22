@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/Tutorial.csproj": {}
+    "/media/anik/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/Tutorial.csproj": {}
   },
   "projects": {
-    "/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/Tutorial.csproj": {
+    "/media/anik/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/Tutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/Tutorial.csproj",
+        "projectUniqueName": "/media/anik/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/Tutorial.csproj",
         "projectName": "Tutorial",
-        "projectPath": "/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/Tutorial.csproj",
+        "projectPath": "/media/anik/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/Tutorial.csproj",
         "packagesPath": "/home/anik/.nuget/packages/",
-        "outputPath": "/mnt/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/",
+        "outputPath": "/media/anik/F85C90A35C905DE6/Data/Tutorial C#/Tutorial/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/anik/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/anik/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/239/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

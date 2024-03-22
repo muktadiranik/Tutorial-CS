@@ -12,3 +12,4 @@
 /mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial 4 Methods Enum/obj/Debug/net8.0/C# Tutorial 4 Methods Enum.pdb
 /mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial 4 Methods Enum/obj/Debug/net8.0/C# Tutorial 4 Methods Enum.genruntimeconfig.cache
 /mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial 4 Methods Enum/obj/Debug/net8.0/ref/C# Tutorial 4 Methods Enum.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/C# Tutorial 4 Methods Enum/obj/Debug/net8.0/C# Tutorial 4 Methods Enum.sourcelink.json

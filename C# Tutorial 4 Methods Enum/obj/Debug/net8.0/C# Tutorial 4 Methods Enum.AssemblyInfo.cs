@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Tutorial 4 Methods Enum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c2bc32716af20110cd0ac34285ed69839577c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Tutorial 4 Methods Enum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Tutorial 4 Methods Enum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
