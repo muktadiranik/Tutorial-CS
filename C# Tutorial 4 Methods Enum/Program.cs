@@ -6,7 +6,7 @@ namespace Tutorial
     {
         public static void Main(string[] args)
         {
-            double x = 4; 
+            double x = 4;
             double y = 5;
 
             Console.WriteLine("GetSum(x, y) = {0}", GetSum(x, y));
@@ -42,8 +42,8 @@ namespace Tutorial
 
         static double GetSum(double x = 1, double y = 1)
         {
-            double temp = x; 
-            x = y; 
+            double temp = x;
+            x = y;
             y = temp;
 
             return x + y;
@@ -60,15 +60,15 @@ namespace Tutorial
         {
             solution = x * 2;
         }
-        
+
         // Swap value by reference
         static void Swap(ref int x, ref int y)
         {
             int temp = x;
-            x = y; 
+            x = y;
             y = temp;
         }
-        
+
         // Take input of array of params of double and return sum and name the function as GetSumMore and use foreach function in it 
         static double GetSumMore(params double[] values)
         {
