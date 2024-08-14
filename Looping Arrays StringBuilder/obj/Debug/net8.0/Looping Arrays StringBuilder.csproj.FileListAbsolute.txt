@@ -1,0 +1,15 @@
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/bin/Debug/net8.0/Looping Arrays StringBuilder
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/bin/Debug/net8.0/Looping Arrays StringBuilder.deps.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/bin/Debug/net8.0/Looping Arrays StringBuilder.runtimeconfig.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/bin/Debug/net8.0/Looping Arrays StringBuilder.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/bin/Debug/net8.0/Looping Arrays StringBuilder.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/Looping Arrays StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/Looping Arrays StringBuilder.AssemblyInfoInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/Looping Arrays StringBuilder.AssemblyInfo.cs
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/Looping Arrays StringBuilder.csproj.CoreCompileInputs.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/Looping Arrays StringBuilder.sourcelink.json
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/Looping Arrays StringBuilder.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/refint/Looping Arrays StringBuilder.dll
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/Looping Arrays StringBuilder.pdb
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/Looping Arrays StringBuilder.genruntimeconfig.cache
+/mnt/F85C90A35C905DE6/Data/Tutorial C#/Looping Arrays StringBuilder/obj/Debug/net8.0/ref/Looping Arrays StringBuilder.dll
