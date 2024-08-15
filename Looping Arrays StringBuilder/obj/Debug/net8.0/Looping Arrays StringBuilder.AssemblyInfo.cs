@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Looping Arrays StringBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92235681a4ec02a50ec7e042365fc27a4fb8aea9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7959a65339d53571ff0c8fe34693ad1ea01c7612")]
 [assembly: System.Reflection.AssemblyProductAttribute("Looping Arrays StringBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Looping Arrays StringBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
